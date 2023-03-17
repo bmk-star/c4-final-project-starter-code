@@ -10,13 +10,14 @@
     "http-errors": "^1.7.2",
     "jsonwebtoken": "^9.0.0",
     "middy": "^0.27.0",
-    "serverless": "^3.28.1",
+    "n": "^9.0.1",
     "source-map-support": "^0.5.11",
+    "stable": "^0.1.8",
     "uuid": "^3.3.2",
     "winston": "^3.2.1"
   },
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.113",
+    "@types/aws-lambda": "^8.10.114",
     "@types/jsonwebtoken": "^8.5.9",
     "@types/node": "^10.17.60",
     "aws-sdk": "^2.1337.0",
